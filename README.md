@@ -1,1 +1,1 @@
-Searching for JustEnough Documentation [click herer](https://justenoughmod.github.io/JustEnoughMod/).
+Searching for JustEnough Documentation [click here](https://justenoughmod.github.io/JustEnoughMod/).
